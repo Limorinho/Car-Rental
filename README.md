@@ -1,4 +1,3 @@
-Based on the available information, here's a proposed README for the [Car-Rental](https://github.com/Limorinho/Car-Rental) repository:
 
 ---
 
